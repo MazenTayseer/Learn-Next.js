@@ -1,9 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## To-Do
-- Implement Search
-- Implement Click on Tag
-- Implement View Other Profiles
+- ✅ Implement Search
+- ✅ Implement Click on Tag
+- ✅ Implement View Other Profiles
 
 ## Getting Started
 
